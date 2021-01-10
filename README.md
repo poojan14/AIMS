@@ -3,9 +3,9 @@ Prediction of water monitoring system using LSTM, Residual LSTM, Autoregressive 
 
 LSTM (RMSE score)
 
-Humidity - 2.85
+Humidity - 2.856
 
-Air_temperature - 0.418
+Air_temperature - 0.481
 
 Water_temperature - 0.164 
 
